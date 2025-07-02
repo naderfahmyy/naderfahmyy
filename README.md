@@ -39,10 +39,16 @@ I’m a Computer Science graduate with a passion for front-end development, UI/U
 
 🚀 **Featured Projects**
 
-| Project                                                                   | Description                                                                                 | Demo                                         |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| [Game Idea Generator](https://github.com/naderfahmyy/game-idea-generator) | Mash up unique video game concepts with a click — UI/UX, React, Vite, TypeScript, and more! | [🌐 Live Site](https://gameideas.vercel.app) |
-| **SceneSketch**                                                           | _(Coming soon)_ Script-to-storyboard tool for fast planning & visual storytelling           | —                                            |
+---
+
+**[Game Idea Generator](https://github.com/naderfahmyy/game-idea-generator)**  
+Mash up unique video game concepts with a click — UI/UX, React, Vite, TypeScript, and more.  
+[🌐 Live Site](https://gameideas.vercel.app)
+
+---
+
+**SceneSketch** _(Coming soon)_  
+Script-to-storyboard tool for fast planning & visual storytelling.
 
 ---
 
