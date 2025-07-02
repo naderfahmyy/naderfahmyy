@@ -14,7 +14,7 @@ I’m a Computer Science graduate with a passion for front-end development, UI/U
 
 ---
 
-<p align="center w-full">
+<p align="center w-full flex justify-between">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
