@@ -26,13 +26,6 @@ I’m a Computer Science graduate with a passion for front-end development, UI/U
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=naderfahmyy&show_icons=true&hide=issues&theme=radical" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=naderfahmyy&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naderfahmyy&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -40,10 +33,12 @@ I’m a Computer Science graduate with a passion for front-end development, UI/U
 🚀 **Featured Projects**
 
 > ### [Game Idea Generator](https://github.com/naderfahmyy/game-idea-generator)
+>
 > Mash up unique video game concepts with a click — UI/UX, React, Vite, TypeScript, and more.  
 > [🌐 Live Site](https://gameideas.vercel.app)
 
-> ### SceneSketch *(Coming soon)*
+> ### SceneSketch _(Coming soon)_
+>
 > Script-to-storyboard tool for fast planning & visual storytelling.
 
 ---
