@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+Nader+Fahmy!;Front-End+Developer+%7C+Creative+Coder+%F0%9F%8C%9F;Turning+Ideas+into+Interactive+Experiences" alt="Typing SVG" />
+  <img src="https://github.com/naderfahmyy/naderfahmyy/raw/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 ---
@@ -39,10 +39,10 @@ I’m a Computer Science graduate with a passion for front-end development, UI/U
 
 🚀 **Featured Projects**
 
-| Project | Description | Demo |
-|---|---|---|
+| Project                                                                   | Description                                                                                 | Demo                                         |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | [Game Idea Generator](https://github.com/naderfahmyy/game-idea-generator) | Mash up unique video game concepts with a click — UI/UX, React, Vite, TypeScript, and more! | [🌐 Live Site](https://gameideas.vercel.app) |
-| **SceneSketch** | *(Coming soon)* Script-to-storyboard tool for fast planning & visual storytelling | — |
+| **SceneSketch**                                                           | _(Coming soon)_ Script-to-storyboard tool for fast planning & visual storytelling           | —                                            |
 
 ---
 
@@ -54,4 +54,4 @@ I’m a Computer Science graduate with a passion for front-end development, UI/U
 ---
 
 > **"Creativity is intelligence having fun."**  
-> *— Albert Einstein, I think*
+> _— Albert Einstein, I think_
