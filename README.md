@@ -49,7 +49,7 @@ I’m a Computer Science graduate with a passion for front-end development, UI/U
 📬 **Let’s Connect!**
 
 - [LinkedIn](https://www.linkedin.com/in/naderamir)
-- [Portfolio](https://naderfahmy.netlify.app) [ - ] dummy data. Coming soon!
+- [Portfolio](https://naderfahmy.netlify.app) - dummy data. Coming soon!
 
 ---
 
